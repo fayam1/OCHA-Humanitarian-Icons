@@ -389,6 +389,7 @@ table th {
 }
 </style>
 <script>
+// Based on: https://stackoverflow.com/a/49041392 and https://stackoverflow.com/a/53880407
 (function () {
   const getCellValue = (tr, idx) =>
     tr.children[idx].innerText || tr.children[idx].textContent;
@@ -399,14 +400,12 @@ table th {
   document.querySelectorAll('th').forEach((th) =>
     th.addEventListener('click', () => {
       const table = th.closest('table');
-      Array.from(table.querySelectorAll('tbody tr'))
+      const tbody = table.querySelector('tbody');
+      Array.from(tbody.querySelectorAll('tr'))
         .sort(
-          comparer(
-            Array.from(th.parentNode.children).indexOf(th),
-            (this.asc = !this.asc)
-          )
+          comparer(Array.from(th.parentNode.children).indexOf(th), (this.asc = !this.asc))
         )
-        .forEach((tr) => table.querySelector('tbody').appendChild(tr));
+        .forEach((tr) => tbody.appendChild(tr));
     })
   );
 })();
