@@ -9,3 +9,9 @@ See: <https://www.unocha.org/story/iconography-part-un%E2%80%99s-humanitarian-ef
 ## Changes
 
 The fill color is changed to adapt to use within applications created by [The Netherlands Red Cross](https://github.com/rodekruis).
+
+## Preview
+
+Look at all icons in your browser:
+- [in Dark blue](./svg/_index)
+- [in White](./white/_index)
