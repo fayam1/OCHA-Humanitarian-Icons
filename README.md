@@ -213,7 +213,7 @@ The fill color is changed to adapt to use within applications created by [The Ne
 | <a href="white/Mobile-phone.svg"><img src="white/Mobile-phone.svg" /></a> | <a href="svg/Mobile-phone.svg"><img src="svg/Mobile-phone.svg" /></a> | Mobile Phone | Telecommunications and Technology |
 | <a href="white/Monitor.svg"><img src="white/Monitor.svg" /></a> | <a href="svg/Monitor.svg"><img src="svg/Monitor.svg" /></a> | Monitor | Telecommunications and Technology |
 | <a href="white/Monitoring.svg"><img src="white/Monitoring.svg" /></a> | <a href="svg/Monitoring.svg"><img src="svg/Monitoring.svg" /></a> | Monitoring | Activities / Strategy |
-| <img src="More-options.svg"   height="100"> | More Options | UX / UI |
+| <a href="white/More-options.svg"><img src="white/More-options.svg" /></a> | <a href="svg/More-options.svg"><img src="svg/More-options.svg" /></a> | More Options | UX / UI |
 | <a href="white/Mosque.svg"><img src="white/Mosque.svg" /></a> | <a href="svg/Mosque.svg"><img src="svg/Mosque.svg" /></a> | Mosque | General Infrastructure |
 | <a href="white/Mosquito-net.svg"><img src="white/Mosquito-net.svg" /></a> | <a href="svg/Mosquito-net.svg"><img src="svg/Mosquito-net.svg" /></a> | Mosquito Net | Food and Non-Food Items |
 | <a href="white/Multi-cluster-sector.svg"><img src="white/Multi-cluster-sector.svg" /></a> | <a href="svg/Multi-cluster-sector.svg"><img src="svg/Multi-cluster-sector.svg" /></a> | Multi-Cluster / Multi-Sector | Other Sectors |
@@ -378,8 +378,11 @@ The fill color is changed to adapt to use within applications created by [The Ne
 table td:nth-of-type(2),
 table td:nth-of-type(1) {
   background-color: gold;
+}
+table img {
   min-width: 48px;
   max-width: 20vw;
+  max-height: 10vh;
 }
 table th {
   cursor: row-resize;
