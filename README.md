@@ -14,3 +14,4 @@ The fill color is changed to adapt to use within applications created by [The Ne
 
 Look at all icons in your browser:
 - [in Dark blue](./svg/_index)
+- [in White](./white/_index)
