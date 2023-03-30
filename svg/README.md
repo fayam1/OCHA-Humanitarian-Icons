@@ -50,7 +50,7 @@ table td:first-of-type { background-color: gold !important; }
 | <a href="Building-facility-not-affected.svg"><img src="Building-facility-not-affected.svg" /></a> | Building Facility Not Affected | Damage | humanitarian icons, damage |
 | <a href="Bus.svg"><img src="Bus.svg" /></a> | Bus | Logistics | humanitarian icons, logistics |
 | <a href="Calendar.svg"><img src="Calendar.svg" /></a> | Calendar | Product Type | humanitarian icons, product type |
-| <a href="Camp-coordination-and-camp-management.svg"><img src="Camp-coordination-and-camp-management.svg" /></a> | Camp Coordination And Camp Management |  camp-coordination-and-camp-management.svg | Clusters | humanitarian icons, clusters |
+| <a href="Camp-Coordination-and-Camp-Management.svg"><img src="Camp-Coordination-and-Camp-Management.svg" /></a> | Camp Coordination And Camp Management |  camp-coordination-and-camp-management.svg | Clusters | humanitarian icons, clusters |
 | <a href="Car.svg"><img src="Car.svg" /></a> | Car | Logistics | humanitarian icons, logistics |
 | <a href="Carjacking.svg"><img src="Carjacking.svg" /></a> | Carjacking | Security and Incident | humanitarian icons, security and incident |
 | <a href="Case-management.svg"><img src="Case-management.svg" /></a> | Case Management | Health | humanitarian icons, health |
@@ -78,9 +78,9 @@ table td:first-of-type { background-color: gold !important; }
 | <a href="Coordination.svg"><img src="Coordination.svg" /></a> | Coordination | Other Sectors | humanitarian icons, other sectors |
 | <a href="Copy.svg"><img src="Copy.svg" /></a> | Copy | UX / UI | humanitarian icons, ux / ui |
 | <a href="Country.svg"><img src="Country.svg" /></a> | Country | General Infrastructure | humanitarian icons, general infrastructure |
-| <a href="Covid-19.svg"><img src="Covid-19.svg" /></a> | Covid-19 | Health | humanitarian icons, health |
+| <a href="COVID-19.svg"><img src="COVID-19.svg" /></a> | Covid-19 | Health | humanitarian icons, health |
 | <a href="Cyclone.svg"><img src="Cyclone.svg" /></a> | Cyclone | Disaster / Hazards and Crises | humanitarian icons, disaster / hazards and crises |
-| <a href="Damaged-affected.svg"><img src="Damaged-affected.svg" /></a> | Damaged / Affected | Damage | humanitarian icons, damage |
+| <a href="Damaged-Affected.svg"><img src="Damaged-Affected.svg" /></a> | Damaged / Affected | Damage | humanitarian icons, damage |
 | <a href="Dangerous-area.svg"><img src="Dangerous-area.svg" /></a> | Dangerous Area | Security and Incident | humanitarian icons, security and incident |
 | <a href="Data.svg"><img src="Data.svg" /></a> | Data | Product Type | humanitarian icons, product type |
 | <a href="Dead.svg"><img src="Dead.svg" /></a> | Dead | People | humanitarian icons, people |
@@ -96,16 +96,16 @@ table td:first-of-type { background-color: gold !important; }
 | <a href="Download.svg"><img src="Download.svg" /></a> | Download | UX / UI | humanitarian icons, ux / ui |
 | <a href="Drought.svg"><img src="Drought.svg" /></a> | Drought | Disaster / Hazards and Crises | humanitarian icons, disaster / hazards and crises |
 | <a href="Drowned.svg"><img src="Drowned.svg" /></a> | Drowned | People | humanitarian icons, people |
-| <a href="Early-recovery.svg"><img src="Early-recovery.svg" /></a> | Early Recovery | Clusters | humanitarian icons, clusters |
+| <a href="Early-Recovery.svg"><img src="Early-Recovery.svg" /></a> | Early Recovery | Clusters | humanitarian icons, clusters |
 | <a href="Earthmound.svg"><img src="Earthmound.svg" /></a> | Earthmound | Physical Barriers | humanitarian icons, physical barriers |
 | <a href="Earthquake.svg"><img src="Earthquake.svg" /></a> | Earthquake | Disaster / Hazards and Crises | humanitarian icons, disaster / hazards and crises |
 | <a href="Education.svg"><img src="Education.svg" /></a> | Education | Clusters | humanitarian icons, clusters |
 | <a href="Elderly.svg"><img src="Elderly.svg" /></a> | Elderly | People | humanitarian icons, people |
 | <a href="E-mail.svg"><img src="E-mail.svg" /></a> | Email | Telecommunications and Technology | humanitarian icons, telecommunications and technology |
-| <a href="Emergency-telecommunications.svg"><img src="Emergency-telecommunications.svg" /></a> | Emergency Telecommunications | Clusters | humanitarian icons, clusters |
+| <a href="Emergency-Telecommunications.svg"><img src="Emergency-Telecommunications.svg" /></a> | Emergency Telecommunications | Clusters | humanitarian icons, clusters |
 | <a href="Environment.svg"><img src="Environment.svg" /></a> | Environment | Other Sectors | humanitarian icons, other sectors |
 | <a href="Epidemic.svg"><img src="Epidemic.svg" /></a> | Epidemic | Disaster / Hazards and Crises | humanitarian icons, disaster / hazards and crises |
-| <a href="Exit-cancel.svg"><img src="Exit-cancel.svg" /></a> | Exit / Cancel | UX / UI | humanitarian icons, ux / ui |
+| <a href="Exit-Cancel.svg"><img src="Exit-Cancel.svg" /></a> | Exit / Cancel | UX / UI | humanitarian icons, ux / ui |
 | <a href="Famine.svg"><img src="Famine.svg" /></a> | Famine | Disaster / Hazards and Crises | humanitarian icons, disaster / hazards and crises |
 | <a href="Favourite.svg"><img src="Favourite.svg" /></a> | Favourite | UX / UI | humanitarian icons, ux / ui |
 | <a href="Fax.svg"><img src="Fax.svg" /></a> | Fax | Telecommunications and Technology | humanitarian icons, telecommunications and technology |
@@ -120,7 +120,7 @@ table td:first-of-type { background-color: gold !important; }
 | <a href="Flour.svg"><img src="Flour.svg" /></a> | Flour | Food and Non-Food Items | humanitarian icons, food and non-food items |
 | <a href="Folder.svg"><img src="Folder.svg" /></a> | Folder | UX / UI | humanitarian icons, ux / ui |
 | <a href="Food.svg"><img src="Food.svg" /></a> | Food | Food and Non-Food Items | humanitarian icons, food and non-food items |
-| <a href="Food-security.svg"><img src="Food-security.svg" /></a> | Food Security | Clusters | humanitarian icons, clusters |
+| <a href="Food-Security.svg"><img src="Food-Security.svg" /></a> | Food Security | Clusters | humanitarian icons, clusters |
 | <a href="Food-warehouse.svg"><img src="Food-warehouse.svg" /></a> | Food Warehouse | General Infrastructure | humanitarian icons, general infrastructure |
 | <a href="Forced-entry.svg"><img src="Forced-entry.svg" /></a> | Forced Entry | Security and Incident | humanitarian icons, security and incident |
 | <a href="Forced-recruitment.svg"><img src="Forced-recruitment.svg" /></a> | Forced Recruitment | Security and Incident | humanitarian icons, security and incident |
@@ -159,7 +159,7 @@ table td:first-of-type { background-color: gold !important; }
 | <a href="House-not-affected.svg"><img src="House-not-affected.svg" /></a> | House Not Affected | Damage | humanitarian icons, damage |
 | <a href="Humanitarian-access.svg"><img src="Humanitarian-access.svg" /></a> | Humanitarian Access | Disaster / Hazards and Crises | humanitarian icons, disaster / hazards and crises |
 | <a href="Humanitarian-programme-cycle.svg"><img src="Humanitarian-programme-cycle.svg" /></a> | Humanitarian Programme Cycle | Activities / Strategy | humanitarian icons, activities / strategy |
-| <a href="Idp-refugee-camp.svg"><img src="Idp-refugee-camp.svg" /></a> | Idp / Refugee Camp | Camp | humanitarian icons, camp |
+| <a href="IDP-refugee-camp.svg"><img src="IDP-refugee-camp.svg" /></a> | Idp / Refugee Camp | Camp | humanitarian icons, camp |
 | <a href="Indigenous people.svg"><img src="Indigenous people.svg" /></a> | Indigenous People | People | humanitarian icons, people |
 | <a href="Infant.svg"><img src="Infant.svg" /></a> | Infant | People | humanitarian icons, people |
 | <a href="Infected.svg"><img src="Infected.svg" /></a> | Infected | Health | humanitarian icons, health |
@@ -211,7 +211,7 @@ table td:first-of-type { background-color: gold !important; }
 | <a href="National-army.svg"><img src="National-army.svg" /></a> | National Army | People | humanitarian icons, people |
 | <a href="Needs-assessment.svg"><img src="Needs-assessment.svg" /></a> | Needs Assessment | Activities / Strategy | humanitarian icons, activities / strategy |
 | <a href="Next-item.svg"><img src="Next-item.svg" /></a> | Next Item | UX / UI | humanitarian icons, ux / ui |
-| <a href="Ngo-office.svg"><img src="Ngo-office.svg" /></a> | NGO Office | General Infrastructure | humanitarian icons, general infrastructure |
+| <a href="NGO-office.svg"><img src="NGO-office.svg" /></a> | NGO Office | General Infrastructure | humanitarian icons, general infrastructure |
 | <a href="Non-food-items.svg"><img src="Non-food-items.svg" /></a> | Non-Food Items | Food and Non-Food Items | humanitarian icons, food and non-food items |
 | <a href="Non-food-items-2.svg"><img src="Non-food-items-2.svg" /></a> | Non-Food Items 2 | Food and Non-Food Items | humanitarian icons, food and non-food items |
 | <a href="Not-affected.svg"><img src="Not-affected.svg" /></a> | Not Affected | Damage | humanitarian icons, damage |
@@ -340,8 +340,8 @@ table td:first-of-type { background-color: gold !important; }
 | <a href="Truck.svg"><img src="Truck.svg" /></a> | Truck | Logistics | humanitarian icons, logistics |
 | <a href="Tsunami.svg"><img src="Tsunami.svg" /></a> | Tsunami | Disaster / Hazards and Crises | humanitarian icons, disaster / hazards and crises |
 | <a href="Tunnel.svg"><img src="Tunnel.svg" /></a> | Tunnel | Logistics | humanitarian icons, logistics |
-| <a href="Un-compound-office.svg"><img src="Un-compound-office.svg" /></a> | UN Compound / Office | General Infrastructure | humanitarian icons, general infrastructure |
-| <a href="Un-vehicle.svg"><img src="Un-vehicle.svg" /></a> | UN Vehicle | Logistics | humanitarian icons, logistics |
+| <a href="UN-compound-office.svg"><img src="UN-compound-office.svg" /></a> | UN Compound / Office | General Infrastructure | humanitarian icons, general infrastructure |
+| <a href="UN-vehicle.svg"><img src="UN-vehicle.svg" /></a> | UN Vehicle | Logistics | humanitarian icons, logistics |
 | <a href="University.svg"><img src="University.svg" /></a> | University | General Infrastructure | humanitarian icons, general infrastructure |
 | <a href="Up.svg"><img src="Up.svg" /></a> | Up | UX / UI | humanitarian icons, ux / ui |
 | <a href="Upload.svg"><img src="Upload.svg" /></a> | Upload | UX / UI | humanitarian icons, ux / ui |
@@ -356,10 +356,10 @@ table td:first-of-type { background-color: gold !important; }
 | <a href="Virus.svg"><img src="Virus.svg" /></a> | Virus | Health | humanitarian icons, health |
 | <a href="Volcano.svg"><img src="Volcano.svg" /></a> | Volcano | Disaster / Hazards and Crises | humanitarian icons, disaster / hazards and crises |
 | <a href="Walkie-talkie.svg"><img src="Walkie-talkie.svg" /></a> | Walkie Talkie | Telecommunications and Technology | humanitarian icons, telecommunications and technology |
-| <a href="Warning-error.svg"><img src="Warning-error.svg" /></a> | Warning / Error | UX / UI | humanitarian icons, ux / ui |
+| <a href="Warning-Error.svg"><img src="Warning-Error.svg" /></a> | Warning / Error | UX / UI | humanitarian icons, ux / ui |
 | <a href="Water-source.svg"><img src="Water-source.svg" /></a> | Water Source | Water, Sanitation and Health | humanitarian icons, water sanitation and health; wash |
 | <a href="Water-trucking.svg"><img src="Water-trucking.svg" /></a> | Water Trucking | Water, Sanitation and Health | humanitarian icons, water sanitation and health; wash |
-| <a href="Water-sanitation-and-hygiene.svg"><img src="Water-sanitation-and-hygiene.svg" /></a> | Water, Sanitation And Hygiene | Clusters | humanitarian icons, clusters |
+| <a href="Water-Sanitation-and-Hygiene.svg"><img src="Water-Sanitation-and-Hygiene.svg" /></a> | Water, Sanitation And Hygiene | Clusters | humanitarian icons, clusters |
 | <a href="Work-from-home.svg"><img src="Work-from-home.svg" /></a> | Work From Home | Telecommunications and Technology | humanitarian icons, telecommunications and technology |
 | <a href="Worm-infestation.svg"><img src="Worm-infestation.svg" /></a> | Worm Infestation | Disaster / Hazards and Crises | humanitarian icons, disaster / hazards and crises |
-| <a href="Zip-compressed.svg"><img src="Zip-compressed.svg" /></a> | Zip / Compressed | UX / UI | humanitarian icons, ux / ui |
+| <a href="ZIP-compressed.svg"><img src="ZIP-compressed.svg" /></a> | Zip / Compressed | UX / UI | humanitarian icons, ux / ui |
